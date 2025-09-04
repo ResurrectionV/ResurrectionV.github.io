@@ -49,14 +49,8 @@ Skills
   * Tools: wandb, TensorBoard, deepscaler, llmcompressor
 
 * **Data Analytics & Visualization**
-  * Statistics, causal analysis, business analysis
+  * Statistics, causal analysis, business analysis, Bayesian Statistics
   * Tableau, Excel, Matplotlib, Seaborn, Plotly
-
-* **Databases**
-  * SQL, MySQL
-
-* **Research Interests**
-  * AI algorithms, NLP, multi-agent & multimodal reasoning
 
 * **Languages**
   * Mandarin (native), English (advanced), Japanese (advanced)
