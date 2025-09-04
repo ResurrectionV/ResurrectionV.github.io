@@ -1,7 +1,7 @@
 ---
 title: "Operating Room Workflow Analysis via Reasoning Segmentation over Digital Twins"
 collection: publications
-category: conference
+category: conferences
 permalink: /publication/2025-06-17-miccai-or-workflow-analysis
 excerpt: "Accepted to MICCAI 2025. This work introduces ORDiRS, an operating room reasoning segmentation framework that integrates SAM2, DepthAnything, OWLv2, and LLaVA for workflow analysis."
 date: 2025-06-17
