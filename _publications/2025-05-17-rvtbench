@@ -1,7 +1,7 @@
 ---
 title: "RVTBench: A Benchmark for Visual Reasoning Tasks"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2025-05-17-rvtbench
 excerpt: "Under revision at NeurIPS 2025. We propose RVTBench, a large-scale benchmark for reasoning visual tasks, including segmentation, grounding, VQA, and summarization."
 date: 2025-05-17
