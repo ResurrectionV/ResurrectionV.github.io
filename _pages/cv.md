@@ -34,12 +34,32 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Programming & Languages**
+  * Python (NumPy, pandas, SciPy, scikit-learn, PyTorch, HuggingFace, OpenCV)
+  * R (ggplot2, statistical modeling)
+  * C, Java, JavaScript, MATLAB
+  * SQL, MySQL
+
+* **AI / Machine Learning**
+  * Deep learning (PyTorch, HuggingFace Transformers, vLLM)
+  * Multimodal reasoning (vision + language models, SAM, LLaVA)
+  * Generative models (GANs, diffusion, NeRF)
+  * Model evaluation (BERTScore, IoU, causal inference)
+  * Tools: wandb, TensorBoard, deepscaler, llmcompressor
+
+* **Data Analytics & Visualization**
+  * Statistics, causal analysis, business analysis
+  * Tableau, Excel, Matplotlib, Seaborn, Plotly
+
+* **Databases**
+  * SQL, MySQL
+
+* **Research Interests**
+  * AI algorithms, NLP, multi-agent & multimodal reasoning
+
+* **Languages**
+  * Mandarin (native), English (advanced), Japanese (advanced)
+
 
 Publications
 ======
