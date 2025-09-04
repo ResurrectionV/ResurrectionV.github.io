@@ -24,11 +24,11 @@ author:
   # Biographic information
   avatar           : "profilep1.jpg"
   name             : "Chenjia Li"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  pronouns         : "he/him" 
+  bio              : "Master’s researcher at Johns Hopkins University in the ARCADE Lab"
+  location         : "Maryland, USA"
   employer         : "Johns Hopkins University"
-  uri              : # URL
+  uri              : "https://resurrectionv.github.io"
   email            : "cli212@jh.edu" 
 
   # Academic websites
