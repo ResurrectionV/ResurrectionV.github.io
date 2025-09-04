@@ -1,0 +1,14 @@
+---
+title: "Temporally-Constrained Video Reasoning Segmentation and Automated Benchmark Construction"
+collection: publications
+category: conferences
+permalink: /publication/2025-07-22-medagi-temporal-reasoning
+excerpt: "Accepted as an Oral presentation at MedAGI 2025. This work introduces a temporally-constrained video reasoning segmentation task and a scalable pipeline for benchmark construction."
+date: 2025-07-22
+venue: "Medical AI for Global Impact (MedAGI), Oral Presentation"
+paperurl: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=QOjwEHoAAAAJ&citation_for_view=QOjwEHoAAAAJ:UeHWp8X0CEIC"
+citation: "Yiqing Shen, <u><strong>Chenjia Li</strong></u>, Chenxiao Fan, Mathias Unberath. (2025). <i>Temporally-Constrained Video Reasoning Segmentation and Automated Benchmark Construction</i>. Oral presentation at <i>MedAGI 2025</i>."
+---
+
+
+Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
