@@ -1,0 +1,14 @@
+---
+title: "Online Reasoning Video Segmentation with Just-in-Time Digital Twins"
+collection: publications
+category: conferences
+permalink: /publication/jitdt
+excerpt: 'Introduce a just-in-time digital twin concept to video segmentation, where -- given an implicit query -- a LLM plans the construction of a low-level scene representation from high-level video using specialist vision models'
+date: 2025-06-25
+venue: "Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)"
+paperurl: 'https://arxiv.org/pdf/2503.21056'
+bibtexurl: "https://arxiv.org/bibtex/2503.21056"
+citation: "Yiqing Shen, Bohan Liu, <u><strong>Chenjia Li</strong></u>, Lalithkumar Seenivasan, Mathias Unberath. (2025). *Online Reasoning Video Segmentation with Just-in-Time Digital Twins*. arXiv:2503.21056."
+---
+
+The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
