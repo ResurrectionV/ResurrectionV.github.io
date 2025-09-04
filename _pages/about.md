@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Chenjia Li - Graduate Researcher in AI at Johns Hopkins"
+title: "Homepage"
 author_profile: true
 redirect_from: 
   - /about/
