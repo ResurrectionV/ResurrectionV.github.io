@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Engineering in Computer Science, Johns Hopkins University, 2025 (expected)
+* M.S. in Computing & Data Science, Boston University, 2024
+* B.S. in Computer Science, Rutgers University, 2023
 
 Work experience
 ======
