@@ -21,6 +21,7 @@ Work experience
   * Johns Hopkins University, ARCADE Lab 
   * Keywords:Reasoning Segmentation, Video Editing, Video retrieval, MLLM
   * Supervisor: Mathias Unberath
+  * PhD Mentor: Yiqing Shen
 
 * Jan 2023 - May 2023: Research Assistant
   * Rutgers University, Art and AI Laboratory
