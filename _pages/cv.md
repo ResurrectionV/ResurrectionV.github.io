@@ -17,20 +17,20 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Sep 2024 - Present: Graduate Researcher
+  * Johns Hopkins University, ARCADE Lab 
+  * Keywords:Reasoning Segmentation, Video Editing, Video retrieval, MLLM
+  * Supervisor: Mathias Unberath
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Jan 2023 - May 2023: Research Assistant
+  * Rutgers University, Art and AI Laboratory
+  * Keywords: Diffusion Model, Deep Generative AI
+  * Supervisor: Ahmed Elgammal
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Aug 2022 - Dec 2022: Research Assistant
+  * Rutgers University
+  * Keywords: Textual Analysis, Natural Language Processing
+  * Supervisor: Michael Luvalle
   
 Skills
 ======
