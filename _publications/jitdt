@@ -3,7 +3,7 @@ title: "Online Reasoning Video Segmentation with Just-in-Time Digital Twins"
 collection: publications
 category: conferences
 permalink: /publication/jitdt
-excerpt: 'Introduce a just-in-time digital twin concept to video segmentation, where -- given an implicit query -- a LLM plans the construction of a low-level scene representation from high-level video using specialist vision models'
+excerpt: 'Accepted as an Oral presentation at ICCV 2025. Introduce a just-in-time digital twin concept to video segmentation, where -- given an implicit query -- a LLM plans the construction of a low-level scene representation from high-level video using specialist vision models'
 date: 2025-06-25
 venue: "Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)"
 paperurl: 'https://arxiv.org/pdf/2503.21056'
