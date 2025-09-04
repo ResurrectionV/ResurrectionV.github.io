@@ -10,8 +10,9 @@ My recent work has been published at **ICCV(oral), MICCAI, and MedAGI(oral)**  a
 
 News
 ======
-Jul 23, 2025 🎤 **ICCV 2025 Oral Presentation** confirmed for *Online Reasoning Video Segmentation with Just-In-Time Digital Twins*.  
-Jul 22, 2025 🎉 **MedAGI 2025 (Oral)** acceptance for *Temporally-Constrained Video Reasoning Segmentation and Automated Benchmark Construction*. [arXiv](https://arxiv.org/abs/2507.16718)  
-Jun 25, 2025 🎉 **ICCV 2025** acceptance for *Online Reasoning Video Segmentation with Just-In-Time Digital Twins*. [arXiv](https://arxiv.org/abs/2503.21056)  
-Jun 17, 2025 🎉 **MICCAI 2025** acceptance for *Operating Room Workflow Analysis via Reasoning Segmentation over Digital Twins*. [arXiv](https://arxiv.org/abs/2503.21054)  
+Jul 23, 2025 🎤 **ICCV 2025 Oral Presentation** confirmed for [*Online Reasoning Video Segmentation with Just-In-Time Digital Twins*](https://arxiv.org/abs/2503.21056).  
+Jul 22, 2025 🎉 **MedAGI 2025 (Oral)** acceptance for [*Temporally-Constrained Video Reasoning Segmentation and Automated Benchmark Construction*](https://arxiv.org/abs/2507.16718).  
+Jun 25, 2025 🎉 **ICCV 2025** acceptance for [*Online Reasoning Video Segmentation with Just-In-Time Digital Twins*](https://arxiv.org/abs/2503.21056).  
+Jun 17, 2025 🎉 **MICCAI 2025** acceptance for [*Operating Room Workflow Analysis via Reasoning Segmentation over Digital Twins*](https://arxiv.org/abs/2503.21054).  
 Sep 16, 2024 🚀 Joined the **ARCADE Lab** at Johns Hopkins University, supervised by Prof. Mathias Unberath and mentored by Yiqing Shen.  
+
