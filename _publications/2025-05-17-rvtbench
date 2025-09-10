@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2025-05-17-rvtbench
 excerpt: "Under revision at NeurIPS 2025. We propose RVTBench, a large-scale benchmark for reasoning visual tasks, including segmentation, grounding, VQA, and summarization."
 date: 2025-05-17
-venue: "Under revision at NeurIPS 2025"
+venue: "Under reviewed at WACV 2026"
 paperurl: "https://arxiv.org/abs/2505.11838"
 bibtexurl: "https://arxiv.org/bibtex/2505.11838"
 citation: "Yiqing Shen, <u><strong>Chenjia Li</strong></u>, Chenxiao Fan, Mathias Unberath. (2025). <i>RVTBench: A Benchmark for Visual Reasoning Tasks</i>. Under revision at <i>NeurIPS 2025</i>. arXiv:2505.11838."
