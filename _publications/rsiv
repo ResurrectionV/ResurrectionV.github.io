@@ -3,7 +3,7 @@ title: "Reasoning Segmentation for Images and Videos: A Survey"
 collection: publications
 category: manuscripts
 permalink: /publication/rsiv
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'Reasoning Segmentation (RS) segments objects from natural-language queries that require reasoning and knowledge, moving beyond fixed categories or explicit prompts. This survey synthesizes 26 methods, evaluation metrics, and 29 datasets/benchmarks, reviews applications across domains, and outlines current gaps and future research directions.'
 date: 2025-05-24
 venue: 'Submitted to IJCV'
 paperurl: 'https://arxiv.org/abs/2505.18816'
