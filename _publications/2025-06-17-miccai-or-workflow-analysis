@@ -3,7 +3,7 @@ title: "Operating Room Workflow Analysis via Reasoning Segmentation over Digital
 collection: publications
 category: conferences
 permalink: /publication/2025-06-17-miccai-or-workflow-analysis
-excerpt: "Accepted to MICCAI 2025. This work introduces ORDiRS, an operating room reasoning segmentation framework that integrates SAM2, DepthAnything, OWLv2, and LLaVA for workflow analysis."
+excerpt: "This work introduces ORDiRS, an operating room reasoning segmentation framework that integrates SAM2, DepthAnything, OWLv2, and LLaVA for workflow analysis."
 date: 2025-06-17
 venue: "International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)"
 paperurl: "https://arxiv.org/abs/2503.21054"
