@@ -11,15 +11,21 @@ redirect_from:
 
 Education
 ======
+* Ph.D in Computer Science and Software Engineering, Auburn University, 2029 (expected)
 * M.S. in Engineering in Computer Science, Johns Hopkins University, 2025 (expected)
 * M.S. in Computing & Data Science, Boston University, 2024
 * B.S. in Computer Science, Rutgers University, 2023
 
 Work experience
 ======
-* Sep 2024 - Present: Graduate Researcher
+* Jan 2026 - Present: PhD Student
+  * Auburn University
+  * Keywords: TBD
+  * Supervisor: Jiaqi Wang
+
+* Sep 2024 - Dec 2025: Graduate Researcher
   * Johns Hopkins University, ARCADE Lab 
-  * Keywords:Reasoning Segmentation, Video Editing, Video retrieval, MLLM
+  * Keywords: Reasoning Segmentation, Video Editing, Video retrieval, MLLM
   * Supervisor: Mathias Unberath
   * PhD Mentor: Yiqing Shen
 
