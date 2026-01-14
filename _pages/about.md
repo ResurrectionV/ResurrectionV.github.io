@@ -9,7 +9,9 @@ redirect_from:
 
 About Me
 ======
-I am a Master’s student in Computer Science at Johns Hopkins University, working as a graduate research assistant in the [ARCADE Lab](https://arcade.cs.jhu.edu/) advised by Prof. Mathias Unberath. My research focuses on **multimodal visual reasoning**, where I build frameworks that combine large language models (LLMs) and foundation vision models for reasoning visual tasks, such as image/video segmentation, summarization, editing, etc.  
+I am a PhD student in Computer Science at Auburn University, advised by Dr. [Jiaqi Wang](https://jackqqwang.github.io/index.html#publications).
+
+Prior to joining Auburn, I completed a Master’s degree in Computer Science at Johns Hopkins University, where I worked as a Graduate Research Assistant in the ARCADE Lab under the supervision of Prof. Mathias Unberath. My research at Johns Hopkins focused on multimodal visual reasoning, developing frameworks that integrate large language models (LLMs) and foundation vision models for tasks such as image and video segmentation, summarization, editing, and reasoning.
 
 Before joining Johns Hopkins, I completed my Bachelor of Science in Computer Science, Statistics, and Mathematics at Rutgers University–New Brunswick and pursued graduate coursework in Computing and Data Science at Boston University. I have also conducted research in **natural language processing, generative models, and multimodal AI**, collaborating with Prof. Michael LuValle and Prof. Ahmed Elgammal.  
 
